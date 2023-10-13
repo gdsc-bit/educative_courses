@@ -58,5 +58,65 @@
        "difficulty" : "Advanced",
        "module_number" : 42,
        "certification" : "paid"
+     },
+     {
+       "id" :  7,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB with C#",
+       "link" : "https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp",
+       "difficulty" : "beginner",
+       "module_number" : 16,
+       "certification" : "paid"
+     },
+     {
+       "id" :  8,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB with JAVA",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-java-developer-path",
+       "difficulty" : "beginner",
+       "module_number" : 17,
+       "certification" : "paid"
+     },
+     {
+       "id" :  9,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB with Node.js",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path",
+       "difficulty" : "beginner",
+       "module_number" : 16,
+       "certification" : "paid"
+     },
+     {
+       "id" :  10,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB with PHP",
+       "link" : "https://learn.mongodb.com/learning-paths/mongodb-php-developer-path",
+       "difficulty" : "beginner",
+       "module_number" : 16,
+       "certification" : "paid"
+     },
+     {
+       "id" :  11,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB with Python",
+       "link" : "https://learn.mongodb.com/learn/learning-path/mongodb-python-developer-path",
+       "difficulty" : "beginner",
+       "module_number" : 17,
+       "certification" : "paid"
+     },
+     {
+       "id" :  122,
+       "platform" : "educative",
+       "free_course" : "yes",
+       "course_name" : "MongoDB C++ Driver",
+       "link" : "https://learn.mongodb.com/courses/mongodb-cpp-driver",
+       "difficulty" : "beginner",
+       "module_number" : 5,
+       "certification" : "paid"
      }
 ]
