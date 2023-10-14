@@ -80,13 +80,23 @@
        "certification" : "paid"
      },
      {
-       "id" :  20,
+       "id" :  15,
        "platform" : "educative",
        "free_course" : "no",
-       "course_name" : "Accelerated Linux Core Dump Analysis",
-       "link" : "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-       "difficulty" : "Advanced",
-       "module_number" : 15,
+       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse",
+       "difficulty" : "beginner",
+       "module_number" : 1,
        "certification" : "paid"
-     }
+     },
+     {
+       "id" :  16,
+       "platform" : "educative",
+       "free_course" : "no",
+       "course_name" : "Foundations of Linux ARM64: Debug, Disassemble, and Reverse",
+       "link" : "https://www.educative.io/courses/foundations-of-linux-arm64-debug-disassemble-and-reverse/comparison-between-memory-and-registers",
+       "difficulty" : "beginner",
+       "module_number" : 2,
+       "certification" : "paid"
+     },
 ]
