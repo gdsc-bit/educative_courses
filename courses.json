@@ -60,16 +60,6 @@
        "certification" : "paid"
      },
      {
-       "id" :  12
-       "platform" : "educative",
-       "free_course" : "no",
-       "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
-       "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
-       "difficulty" : "Beginner",
-       "module_number" : 8,
-       "certification" : "paid"
-     },
-     {
        "id" :  10,
        "platform" : "educative",
        "free_course" : "no",
@@ -138,5 +128,17 @@
        "difficulty" : "Advanced",
        "module_number" : 11,
        "certification" : "paid"
-     }
+     },
+     [
+   {
+     "id" :  22,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "DevOps Bootcamp - Techworld with Nana",
+     "link" : "https://www.techworld-with-nana.com/devops-bootcamp",
+     "difficulty" : "intermediate",
+     "module_number" : 8,
+     "certification" : "paid"
+   }
+]
 ]
