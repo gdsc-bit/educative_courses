@@ -320,7 +320,7 @@
      "certification" : "paid" 
     },
     {
-     id" :  36,
+     "id" :  36,
      "platform" : "educative",
      "free_course" : "no",
      "course_name" : "Develop an E-Commerce App Using Java, Spring Boot and Vue.js",
