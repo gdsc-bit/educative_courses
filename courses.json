@@ -718,5 +718,15 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 130,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Zero to Hero in JavaScript",
+    "link": "https://www.educative.io/path/zero-to-hero-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  },
 ]
