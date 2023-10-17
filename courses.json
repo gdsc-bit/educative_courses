@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 113,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Ace the Front End Interview",
+    "link": "https://www.educative.io/path/ace-front-end-interview",
+    "difficulty": "intermediate",
+    "module_number": 5,
+    "certification": "paid"
   }
 ]
