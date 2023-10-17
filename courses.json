@@ -470,6 +470,16 @@
     "certification": "paid"
   },
   {
+    "id" : 95,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "A Complete Guide to Java Programming",
+    "link" : "https://www.educative.io/courses/complete-guide-to-java-programming",
+    "difficulty" : "Beginner",
+    "module_number" : 14,
+    "certification" : "paid"
+  },   
+    {
     "id": 50,
     "platform": "educative",
     "free_course": "no",
@@ -477,6 +487,16 @@
     "link": "https://www.educative.io/courses/time-series-analysis-with-python",
     "difficulty": "beginner",
     "module_number": 8,
+    "certification": "paid"
+  },
+    {
+    "id": 118,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Grokking Modern System Design Interview for Engineers & Managers",
+    "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers",
+    "difficulty": "beginner",
+    "module_number": 40,
     "certification": "paid"
   },
   {
@@ -489,17 +509,7 @@
     "module_number": 10,
     "certification": "paid"
   },
-  {
-    "id": 52,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Creating Payment Card Programs using Marqeta API in JavaScript",
-    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
-    "difficulty": "beginner",
-    "module_number": 9,
-    "certification": "paid"
-  },
-  {
+    {
     "id": 53,
     "platform": "educative",
     "free_course": "no",
@@ -510,63 +520,13 @@
     "certification": "paid"
   },
   {
-    "id": 88,
+    "id": 52,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Python 101: Interactively learn how to program with Python 3",
-    "link": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3",
-    "difficulty": "beginner",
-    "module_number": 43,
-    "certification": "paid"
-  },
-  {
-    "id": 89,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Full Speed Python",
-    "link": "https://www.educative.io/courses/full-speed-python",
+    "course_name": "Creating Payment Card Programs using Marqeta API in JavaScript",
+    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
     "difficulty": "beginner",
     "module_number": 9,
-    "certification": "paid"
-  },
-  {
-    "id": 90,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Surfacing Video Data with the Dailymotion Data API in JavaScript",
-    "link": "https://www.educative.io/courses/surfacing-video-data-with-the-dailymotion-data-api-in-javascript",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 91,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Animations in Angular",
-    "link": "https://www.educative.io/courses/animations-in-angular",
-    "difficulty": "Intermediate",
-    "module_number": 8,
-    "certification": "paid"
-  },
-  {
-    "id": 92,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Using fp-ts for Functional Programming in TypeScript",
-    "link": "https://www.educative.io/courses/using-fp-ts-for-functional-programming-in-typescript",
-    "difficulty": "Intermediate",
-    "module_number": 12,
-    "certification": "paid"
-  },
-  {
-    "id": 95,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "A Complete Guide to Java Programming",
-    "link": "https://www.educative.io/courses/complete-guide-to-java-programming",
-    "difficulty": "Beginner",
-    "module_number": 14,
     "certification": "paid"
   },
   {
@@ -583,20 +543,10 @@
     "id": 99,
     "platform": "educative",
     "free_course": "no",
-    "course_name": " Python 3: An interactive deep dive",
+    "course_name":" Python 3: An interactive deep dive",
     "link": "https://www.educative.io/courses/python-3-an-interactive-deep-dive",
     "difficulty": "beginner",
     "module_number": 17,
-    "certification": "paid"
-  },
-  {
-    "id": 100,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Hands-on Vue.js: Build a fully functional SPA",
-    "link": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa",
-    "difficulty": "beginner",
-    "module_number": 8,
     "certification": "paid"
   },
   {
@@ -610,23 +560,13 @@
     "certification": "paid"
   },
   {
-    "id": 106,
+    "id": 100,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Getting Started with LINQ in C#",
-    "link": "https://www.educative.io/courses/getting-started-linq-c-sharp",
-    "difficulty": "intermediate",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 107,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Mastering C# and .NET",
-    "link": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet",
+    "course_name": "Hands-on Vue.js: Build a fully functional SPA",
+    "link": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa",
     "difficulty": "beginner",
-    "module_number": 18,
+    "module_number": 8,
     "certification": "paid"
   },
   {
@@ -650,6 +590,46 @@
     "certification": "paid"
   },
   {
+    "id": 107,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Mastering C# and .NET",
+    "link": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet",
+    "difficulty": "beginner",
+    "module_number": 18,
+    "certification": "paid"
+  },
+  {
+    "id": 106,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Getting Started with LINQ in C#",
+    "link": "https://www.educative.io/courses/getting-started-linq-c-sharp",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
+    {
+    "id": 90,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Surfacing Video Data with the Dailymotion Data API in JavaScript",
+    "link": "https://www.educative.io/courses/surfacing-video-data-with-the-dailymotion-data-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  },
+    {
+    "id": 92,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Using fp-ts for Functional Programming in TypeScript",
+    "link": "https://www.educative.io/courses/using-fp-ts-for-functional-programming-in-typescript",
+    "difficulty": "Intermediate",
+    "module_number": 12,
+    "certification": "paid"
+  },
+    {
     "id": 115,
     "platform": "educative",
     "free_course": "no",
@@ -659,64 +639,56 @@
     "module_number": 8,
     "certification": "paid"
   },
-  {
-    "id": 118,
+    {
+    "id": 91,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Grokking Modern System Design Interview for Engineers & Managers",
-    "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers",
-    "difficulty": "beginner",
-    "module_number": 40,
+    "course_name": "Animations in Angular",
+    "link": "https://www.educative.io/courses/animations-in-angular",
+    "difficulty": "Intermediate",
+    "module_number": 8,
     "certification": "paid"
   },
   {
-    "id": 125,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Mastering Algorithms for Problem Solving in C++",
-    "link": "https://www.educative.io/courses/mastering-algorithms-for-problem-solving-in-cpp",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 126,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Marketing Analytics Using Machine Learning Techniques",
-    "link": "https://www.educative.io/courses/marketing-analytics-using-machine-learning-techniques",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 127,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Data Structures Preliminaries (Refresher of Fundamentals in C++)",
-    "link": "https://www.educative.io/courses/data-structures-preliminaries-refresher-of-fundamentals-in-cpp",
-    "difficulty": "intermediate",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 128,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "AWS Cost Optimization",
-    "link": "https://www.educative.io/courses/aws-cost-optimization",
-    "difficulty": "intermediate",
-    "module_number": 7,
-    "certification": "paid"
-  },
-  {
-    "id": 129,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Blogging Using the Blogger API in Python",
-    "link": "https://www.educative.io/courses/blogger-api-python",
-    "difficulty": "beginner",
-    "module_number": 7,
-    "certification": "paid"
-  }
+   "id": 88,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Python 101: Interactively learn how to program with Python 3",
+   "link": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3",
+   "difficulty": "beginner",
+   "module_number": 43,
+   "certification": "paid"
+ },
+ {
+   "id": 89,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Full Speed Python",
+   "link": "https://www.educative.io/courses/full-speed-python",
+   "difficulty": "beginner",
+   "module_number": 9,
+   "certification": "paid"
+ },
+ {
+   "id": 129,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Blogging Using the Blogger API in Python",
+   "link": "https://www.educative.io/courses/blogger-api-python",
+   "difficulty": "beginner",
+   "module_number": 7,
+   "certification": "paid"
+ },
+ {
+   "id": 130,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Master ChatGPT Prompt Engineering",
+   "link": "https://www.educative.io/courses/master-chatgpt-prompt-engineering",
+   "difficulty": "beginner",
+   "module_number": 21,
+   "certification": "paid"
+ }
+
 ]
+
