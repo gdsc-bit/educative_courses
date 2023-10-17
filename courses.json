@@ -728,5 +728,15 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 130,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Skillshare",
+    "link": "https://www.skillshare.com/en/",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
 ]
