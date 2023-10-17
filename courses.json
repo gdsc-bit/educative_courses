@@ -728,5 +728,16 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 130,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Theory of basic computation",
+    "link": "https://www.educative.io/courses/theory-of-computations",
+    "difficulty": "beginner",
+    "module_number": 11,
+    "certification": "paid"
+  },
+]
 ]
