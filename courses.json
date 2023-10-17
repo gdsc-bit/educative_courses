@@ -479,14 +479,15 @@
     "module_number": 12,
     "certification": "paid"
   },
-    {
-    "id": 50,
+  {
+    "id": 110,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Time Series Analysis with Python",
-    "link": "https://www.educative.io/courses/time-series-analysis-with-python",
+    "course_name": "Deploying Web Applications using Elastic Beanstalk",
+    "link": "https://www.educative.io/cloudlabs/deploying-web-applications-using-elastic-beanstalk",
     "difficulty": "beginner",
-    "module_number": 8,
+    "module_number": 3,
     "certification": "paid"
   }
+  
 ]
