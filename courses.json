@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+    {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Deploying Web Applications Using Elastic Beanstalk"
+    "link": "https://www.educative.io/cloudlabs/deploying-web-applications-using-elastic-beanstalk",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
   }
 ]
