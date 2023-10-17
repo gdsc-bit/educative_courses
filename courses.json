@@ -568,5 +568,25 @@
     "difficulty": "intermediate",
     "module_number": 7,
     "certification": "paid"
+  },
+  {
+    "id": 110,
+    "platform": "Cisco Networking Academy",
+    "free_course": "yes",
+    "course_name": "NDG Linux Unhatched",
+    "link": "https://www.netacad.com/courses/os-it/ndg-linux-unhatched",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "free"
+  },
+  {
+    "id": 111,
+    "platform": "Cisco Networking Academy",
+    "free_course": "yes",
+    "course_name": "Networking Essentials",
+    "link": "https://www.netacad.com/courses/networking/networking-essentials",
+    "difficulty": "intermediate",
+    "module_number": 10,
+    "certification": "free"
   }
 ]
