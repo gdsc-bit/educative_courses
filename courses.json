@@ -488,5 +488,45 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
-  }
-]
+  },
+   { 
+    "id": 82,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "A Programmer’s Guide to AWS S3",
+    "link": "https://www.educative.io/courses/programmers-guide-aws-s3",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+   },  
+  {
+    "id": 83,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "AWS Security Fundamentals: A Practical Guide to AWS IAM",
+    "link": "https://www.educative.io/courses/aws-security-iam",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+   },  
+    {
+      "id": 84,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Running Serverless Applications with AWS Lambda",
+    "link": "https://www.educative.io/courses/running-serverless-applications-aws-lambda",
+    "difficulty": "Intermediate",
+    "module_number": 13,
+    "certification": "paid"
+   },
+   {
+      "id": 85,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Ansible: Zero to Production Ready",
+    "link": "https://www.educative.io/courses/ansible-zero-to-production-ready",
+    "difficulty": "Advanced",
+    "module_number": 12,
+    "certification": "paid"
+   }
+  ]
