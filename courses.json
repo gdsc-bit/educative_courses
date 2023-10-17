@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 112,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "zero to hero in front end web development",
+    "link": "https://www.educative.io/path/zero-to-hero-in-front-end-web-development",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
   }
 ]
