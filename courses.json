@@ -478,5 +478,13 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-  }
+  },
+  "id": 50,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "SKILL PATH Become a Data Scientist",
+    "link": "https://www.educative.io/path/become-a-data-scientist",
+    "difficulty": "beginner",
+    "module_number": 05,
+    "certification": "paid"
 ]
