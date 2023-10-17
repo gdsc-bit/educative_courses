@@ -478,5 +478,15 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
-  }
+  },
+  {
+    "id": 50,
+    "platform": "educative",
+    "free_course": "yes",
+    "course_name": "webdev:Cool Parts with HTML5, JavaScript ES6 & CryptoJS",
+    "link": "https://www.udemy.com/course/webdev-cool-parts/?kw=webdev+cr&src=sac",
+    "difficulty": "advanced",
+    "module_number": 52,
+    "certification": "paid"
+  },
 ]
