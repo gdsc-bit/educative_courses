@@ -658,6 +658,16 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
+  },
+   {
+    "id": 112,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Understanding AWS IoT Core with Lambda",
+    "link": "https://www.educative.io/cloudlabs/understanding-aws-iot-core-with-lambda",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
   }  
 ]
 
