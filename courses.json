@@ -470,10 +470,10 @@
     "certification": "paid"
   },
   {
-    "id": 49,
+    "id": 50
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Docker for Web Developers",
+    "course_name": "Learn coding",
     "link": "https://www.educative.io/courses/docker-for-web-developers",
     "difficulty": "beginner",
     "module_number": 12,
