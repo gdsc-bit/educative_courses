@@ -668,6 +668,16 @@
    "diffic ulty": "beginner",
    "module_number": 10,
    "certification": "paid"
+ },
+   {
+   "id": 92,
+   "platform": "educative",
+   "free_course": "yes",
+   "course_name": "java for beginners",
+   "link": "https://www.guvi.in/courses/programming/java-beginners/",
+   "diffic ulty": "beginner",
+   "module_number": 7,
+   "certification": "free"
  }
 ]
 
