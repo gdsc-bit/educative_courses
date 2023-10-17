@@ -479,14 +479,45 @@
     "module_number": 12,
     "certification": "paid"
   },
-    {
-    "id": 50,
+  {
+    "id": 86,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Time Series Analysis with Python",
-    "link": "https://www.educative.io/courses/time-series-analysis-with-python",
+    "course_name": "Make Your Own Neural Network in Python",
+    "link": "https://www.educative.io/courses/make-your-own-neural-network-in-python",
+    "diffic  ulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+  },
+  {
+    "id": 87,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Data Structures for Coding Interviews in Python",
+    "link": "https://www.educative.io/courses/data-structures-coding-interviews-python",
+    "diffic  ulty": "beginner",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 88,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Python 101: Interactively learn how to program with Python 3",
+    "link": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3",
     "difficulty": "beginner",
-    "module_number": 8,
+    "module_number": 43,
+    "certification": "paid"
+  },
+  {
+    "id": 89,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Full Speed Python",
+    "link": "https://www.educative.io/courses/full-speed-python",
+    "diffic  ulty": "beginner",
+    "module_number": 9,
     "certification": "paid"
   }
+  
 ]
