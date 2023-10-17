@@ -478,5 +478,15 @@
     "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+  {
+    "id": 50,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Managing Instance Volumes Using EBS",
+    "link": "https://www.educative.io/cloudlabs/managing-instance-volumes-using-ebs",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
   }
 ]
