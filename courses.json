@@ -489,4 +489,14 @@
     "module_number": 8,
     "certification": "paid"
   }
+  {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Zero to Hero in C++",
+    "link": "https://www.educative.io/path/zero-to-hero-in-cpp",
+    "difficulty": "beginner",
+    "module_number": 4,
+    "certification": "paid"
+  }
 ]
