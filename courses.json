@@ -768,6 +768,16 @@
     "difficulty": "intermediate",
     "module_number": 15,
     "certification": "paid"
+  },
+  {
+    "id": 134,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Go for DevOps",
+    "link": "https://www.educative.io/courses/go-for-devops",
+    "difficulty": "beginner",
+    "module_number": 18,
+    "certification": "paid"
   }
 ]
 
