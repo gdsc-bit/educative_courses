@@ -769,7 +769,7 @@
     "module_number": 15,
     "certification": "paid"
   },
- {
+  {
    "id": 135,
    "platform": "educative",
    "free_course": "no",
@@ -778,6 +778,6 @@
    "difficulty": "beginner",
    "module_number": 88,
    "certification": "paid"
- } 
+  } 
 ]
 
