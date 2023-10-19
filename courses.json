@@ -760,13 +760,13 @@
     "certification": "paid"
 },
   {
-    "id": 132,
+    "id": 134,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Game Data Science Using R",
-    "link": "https://www.educative.io/courses/game-data-science-using-r",
+    "course_name": "Golang for Programmers",
+    "link": "https://www.educative.io/path/golang-for-programmers",
     "difficulty": "intermediate",
-    "module_number": 15,
+    "module_number": 8,
     "certification": "paid"
   }
 ]
