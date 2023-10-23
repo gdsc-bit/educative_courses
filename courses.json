@@ -848,6 +848,16 @@
       "difficulty" : "Intermediate",
       "module_number" : 12,
       "certification" : "paid"
+    },
+    {
+      "id" : 146,
+      "platform" : "educative",
+      "free_course" : "yes",
+      "course_name" : "Theory of Computation",
+      "link" : "https://www.educative.io/courses/theory-of-computation",
+      "difficulty" : "beginer",
+      "module_number" : 56,
+      "certification" : "paid"
     }
   ]
   
