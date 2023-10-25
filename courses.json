@@ -848,6 +848,16 @@
       "difficulty" : "Intermediate",
       "module_number" : 12,
       "certification" : "paid"
+    },
+    {
+      "id" : 146,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Learn to Code",
+      "link" : "https://www.educative.io/catalog/learn-to-code",
+      "difficulty" : "Intermediate",
+      "module_number" : 12,
+      "certification" : "paid"
     }
   ]
   
