@@ -49,14 +49,15 @@
       "module_number" : 4,
       "certification" : "paid"
     },
-   {
+  {
       "id" : 6,
       "platform" : "educative",
       "free_course" : "no",
-      "course_name" : "Become an AWS and Terraform Expert",
-      "link" : "https://www.educative.io/path/become-an-aws-and-terraform-expert",
-      "difficulty" : "Beginner",
-      "module_number" : 3,
+      "course_name" : "Become a Machine Learning Engineer",
+      "link" : "https://www.educative.io/path/become-a-machine-learning-engineer",
+      "difficulty" : "Intermediate",
+      "module_number" : 6,
       "certification" : "paid"
     }
+  
 ]
