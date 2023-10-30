@@ -1659,6 +1659,16 @@
       "difficulty" : "advanced",
       "module_number" : 41,
       "certification" : "paid"
-    }
-]
-
+    },
+  
+ {
+      "id" : 152,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Machine Learning with NumPy, pandas, scikit-learn, and More",
+      "link" : "https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-learn?eid=5082902844932096&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0Czoxfk1Rf60nnzbjnk52M-cxYStkHeNw61-NDlFfSCPwc8GlykQiyl8aAieTEALw_wcB&hsa_acc=5451446008&hsa_ad=479735259505&hsa_cam=6976044439&hsa_grp=80247129576&hsa_kw=educative%20courses&hsa_mt=p&hsa_net=adwords&hsa_src=g&hsa_tgt=kwd-1598028032869&hsa_ver=3&utm_campaign=brand_educative&utm_campaign=%5BBrand%5D%20Educative%20%7C%20Exclude%20USA&utm_content=search&utm_medium=ppc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=course&utm_term=educative%20courses",
+      "difficulty" : "advanced",
+      "module_number" : 86,
+      "certification" : "paid"
+    },
+   ]
