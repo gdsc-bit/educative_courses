@@ -1660,5 +1660,25 @@
       "module_number" : 41,
       "certification" : "paid"
     }
+  {
+      "id" : 152,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Become an Elixir Programmer",
+      "link" : "https://www.educative.io/path/become-an-elixir-professional",
+      "difficulty" : "advanced",
+      "module_number" : 2,
+      "certification" : "paid"
+    }
+  {
+      "id" : 153,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Become a MERN Stack Developer",
+      "link" : "https://www.educative.io/path/become-a-mern-stack-developer",
+      "difficulty" : "advanced",
+      "module_number" : 4,
+      "certification" : "paid"
+    }
 ]
 
