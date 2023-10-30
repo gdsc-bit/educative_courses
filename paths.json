@@ -130,6 +130,7 @@
       "certification" : "paid"
     },
    {     
+
       "id" : 15,
       "platform" : "educative",
       "free_course" : "no",
@@ -137,6 +138,16 @@
       "link" : "https://www.educative.io/path/ace-the-api-for-social-media",
       "difficulty" : "beginner",
       "module_number" : 3,
+     "certification" : "paid"
+   },
+  {
+      "id" : 14,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Computer Science Bootcamp",
+      "link" : "https://www.educative.io/path/computer-science-bootcamp",
+      "difficulty" : "beginner",
+      "module_number" : 21,
       "certification" : "paid"
     }
 ]
