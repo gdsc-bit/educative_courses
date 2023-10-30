@@ -118,5 +118,15 @@
       "difficulty" : "Beginner",
       "module_number" : 6,
       "certification" : "paid"
+    },
+   {     
+      "id" : 13,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Pandas: Python for Data Analysis",
+      "link" : "https://www.educative.io/path/python-for-data-analysis",
+      "difficulty" : "intermediate",
+      "module_number" : 5,
+      "certification" : "paid"
     }
 ]
