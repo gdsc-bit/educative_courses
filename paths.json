@@ -129,6 +129,16 @@
       "module_number" : 5,
       "certification" : "paid"
     },
+  {     
+      "id" : 16,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Become a Distributed Systems Professional",
+      "link" : "https://www.educative.io/path/become-a-distributed-systems-professional",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+     "certification" : "paid"
+   },
    {     
 
       "id" : 15,
