@@ -1660,5 +1660,15 @@
       "module_number" : 41,
       "certification" : "paid"
     }
+  {
+     "id" :  152,
+     "platform" : "educative",
+     "free_course" : "no",
+     "course_name" : "Web Development: Unraveling HTML, CSS, and JavaScript",
+     "link" : "https://www.educative.io/courses/web-development-unraveling-html-css-js",
+     "difficulty" : "beginner",
+     "module_number" : 12,
+     "certification" : "paid"
+   },
 ]
 
