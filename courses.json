@@ -1659,6 +1659,26 @@
       "difficulty" : "advanced",
       "module_number" : 41,
       "certification" : "paid"
+    },
+  {
+      "id" : 152,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Zero to Hero in Python",
+      "link" : "https://www.educative.io/path/zero-to-hero-in-python",
+      "difficulty" : "advanced",
+      "module_number" : 5,
+      "certification" : "paid"
+    },
+  {
+      "id" : 153,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Grokking Coding Interview Patterns in Python",
+      "link" : "https://www.educative.io/courses/grokking-coding-interview-patterns-python",
+      "difficulty" : "advanced",
+      "module_number" : 5,
+      "certification" : "paid"
     }
   {
      "id" :  152,
